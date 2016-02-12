@@ -1,0 +1,16 @@
+  platform :ios, '8.0'
+# Uncomment this line to define a global platform for your project
+
+# Uncomment this line if you're using Swift
+  use_frameworks!
+
+target 'movie app' do
+
+pod 'AFNetworking', '~> 2.6'
+
+#target 'movie appTests' do
+
+#target 'movie appUITests' do
+ 
+end
+
